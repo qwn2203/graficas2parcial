@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1571628540 source:c:\users\alma\documents\tec\7mo semestre - ago-dic 2019\graficas\parcial2\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"op3d.h"
+	"pyramid.h"
+
+1442892964 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571625368 source:c:\users\alma\documents\tec\7mo semestre - ago-dic 2019\graficas\parcial2\op3d.cpp
+	"op3d.h"
+	"math.h"
+	<stack>
+	<iostream>
+
+1571627299 c:\users\alma\documents\tec\7mo semestre - ago-dic 2019\graficas\parcial2\op3d.h
+	<stdlib.h>
+	<stdio.h>
+	<stack>
+	<iostream>
+
+1571628528 source:c:\users\alma\documents\tec\7mo semestre - ago-dic 2019\graficas\parcial2\pyramid.cpp
+	"pyramid.h"
+
+1571626724 c:\users\alma\documents\tec\7mo semestre - ago-dic 2019\graficas\parcial2\pyramid.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"op3d.h"
+	<iostream>
+
